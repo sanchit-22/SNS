@@ -1,0 +1,26 @@
+{
+  "true_positives": 1,
+  "false_positives": 0,
+  "false_negatives": 0,
+  "true_negatives": 24,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "false_positive_rate": 0.0,
+  "false_negative_rate": 0.0,
+  "total_alerts": 1,
+  "total_malicious_events": 20,
+  "total_benign_events": 42,
+  "avg_alert_latency_seconds": 28.0291,
+  "experiment_duration_seconds": 55.0332,
+  "cpu_percent": 0.0,
+  "memory_mb": 16.06,
+  "alerts_by_severity": {
+    "info": 0,
+    "low": 0,
+    "medium": 0,
+    "high": 1,
+    "critical": 0
+  },
+  "experiment_name": "Slow Port Scan"
+}

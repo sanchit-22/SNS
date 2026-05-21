@@ -1,0 +1,26 @@
+{
+  "true_positives": 1,
+  "false_positives": 0,
+  "false_negatives": 0,
+  "true_negatives": 25,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "false_positive_rate": 0.0,
+  "false_negative_rate": 0.0,
+  "total_alerts": 5,
+  "total_malicious_events": 28,
+  "total_benign_events": 39,
+  "avg_alert_latency_seconds": 12.7088,
+  "experiment_duration_seconds": 19.2943,
+  "cpu_percent": 0.0,
+  "memory_mb": 16.29,
+  "alerts_by_severity": {
+    "info": 0,
+    "low": 0,
+    "medium": 0,
+    "high": 2,
+    "critical": 3
+  },
+  "experiment_name": "Multi-Step Attack"
+}

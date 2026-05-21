@@ -1,0 +1,26 @@
+{
+  "true_positives": 1,
+  "false_positives": 0,
+  "false_negatives": 0,
+  "true_negatives": 28,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "false_positive_rate": 0.0,
+  "false_negative_rate": 0.0,
+  "total_alerts": 2,
+  "total_malicious_events": 22,
+  "total_benign_events": 49,
+  "avg_alert_latency_seconds": 11.4893,
+  "experiment_duration_seconds": 17.5477,
+  "cpu_percent": 2.0,
+  "memory_mb": 15.95,
+  "alerts_by_severity": {
+    "info": 0,
+    "low": 0,
+    "medium": 0,
+    "high": 2,
+    "critical": 0
+  },
+  "experiment_name": "Brute-Force Login"
+}
